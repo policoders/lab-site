@@ -9,5 +9,6 @@ export const Container = styled.div`
 
 export const Banner = styled.img.attrs({
 })`
+  max-width: 80%;
   max-height: 80%;
 `;
